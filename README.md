@@ -7,10 +7,11 @@ Assignments after grades for them are released (~3 weeks after the due date), so
 1. Simulator 
 2. Bomb 
 3. Performance 
-4. ELF
+4. Shell
 
 ### Labs
 1. Masking
 2. Puzzle
 3. Overflow Attack
 4. Kernel Performance
+8. Microbash
